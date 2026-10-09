@@ -1,1 +1,1 @@
-bedrockevent.online
+ping bedrockevent.online
