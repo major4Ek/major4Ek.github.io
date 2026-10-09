@@ -1,1 +1,1 @@
-ping bedrockevent.online
+ping -c 15 bedrockevent.online
