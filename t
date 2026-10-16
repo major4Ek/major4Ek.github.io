@@ -1,1 +1,1 @@
-dir
+winget install Git.Git
