@@ -1,1 +1,1 @@
-https:bedrockevent.online
+https://bedrockevent.online
